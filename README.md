@@ -9,9 +9,12 @@ I'm making it public for the community, hopefully it will help some of you.
 Below I've left some of documentation and WIP. 
 
 Feel free to contact me for any help on it, mail is on my profile and Discord is: **Azerpas#1486**
+
 **Please do not contact me about how to install Python and any other basic, there's a lot of good tutorials on the internet that will explain it better than myself, I'll be happy to help for any other question though** 
 
 If you're making any progress with it let me know, I would love to see what you achieve with this. 
+
+Please excuse my terrible english.
 
 ## Documentation
 
