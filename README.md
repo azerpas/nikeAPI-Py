@@ -1,4 +1,4 @@
-# nikeAPI-Python
+# nikeAPI-Py
 
 Hi, I'm making public this Nike SNKRS Script I've been working on last year. With work and studies I didn't have time to work on the script these last 6 months and I think I will not have time for anymore so. 
 
