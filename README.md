@@ -1,5 +1,11 @@
 # nikeAPI-Py
 
+30th Jan 2020:     
+**Check out https://paname.io my new project !**     
+Cloud based bot which currently automate raffles entries.      
+
+-------------------------      
+
 Hi, I'm making public this Nike SNKRS Script I've been working on last year. With work and studies I didn't have time to work on the script these last 6 months and I think I will not have time for anymore so. 
 
 I think the script itself is not working anymore (Nike has shut down a lot of api endpoints) but with a bit of changes like fixing log-in etc... it could be a good script to start with. Anyway a year or so it was working great and I was making a lot of entries on SNKRS with it.
