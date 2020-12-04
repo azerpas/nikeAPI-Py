@@ -4,8 +4,8 @@
 
 I've been asked many times for a few advices so here we go:
 
-This project has been abandoned for a few years. It's more of a documentation of all the endpoints Nike is (or was) using.
-As far as I know, Nike hasn't changed much of their internal API, but they now have a strong auth protection. Your best chance is to reverse-engineer Akamai (which a lot people already did) to generate cookies and bypass their first protection. 
+This project has been abandoned for a few years. It's more of a documentation of all the endpoints Nike is (or was) using.      
+As far as I know, Nike hasn't changed much of their internal API, but they now have a strong auth protection. Your best chance is to reverse-engineer Akamai (which a lot people already did) [to generate cookies and bypass their first protection](https://github.com/azerpas/nikeAPI-Py/issues/3).        
 They also monitor every entries made to a draw, you need to generate valid fingerprint to bypass this protection. 
 
 Good luck!
