@@ -1,6 +1,10 @@
 # nikeAPI-Py
 
-16th Nov 2020:
+## 30th Jan 2021:
+
+Join the discord: https://discord.gg/JqYCEAURpm
+
+## 16th Nov 2020:
 
 I've been asked many times for a few advices so here we go:
 
@@ -12,7 +16,7 @@ Good luck!
 
 -------------------------
 
-30th Jan 2020:     
+## 30th Jan 2020:     
 **Check out https://paname.io my new project !**     
 Cloud based bot which currently automate raffles entries.      
 
