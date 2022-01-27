@@ -1,5 +1,9 @@
 # nikeAPI-Py
 
+## 27th Jan 2022:
+
+Beginner with Akamai? Check out what we've done over [**bpre**](https://github.com/char/bpre)
+
 ## 30th Jan 2021:
 
 Join the discord: https://discord.gg/JqYCEAURpm
